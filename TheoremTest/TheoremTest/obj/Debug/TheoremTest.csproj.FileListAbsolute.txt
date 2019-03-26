@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\TheoremTest\TheoremTest\bin\Debug\TheoremTest.exe.config
+C:\Users\admin\source\repos\TheoremTest\TheoremTest\bin\Debug\TheoremTest.exe
+C:\Users\admin\source\repos\TheoremTest\TheoremTest\bin\Debug\TheoremTest.pdb
+C:\Users\admin\source\repos\TheoremTest\TheoremTest\obj\Debug\TheoremTest.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\TheoremTest\TheoremTest\obj\Debug\TheoremTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TheoremTest\TheoremTest\obj\Debug\TheoremTest.exe
+C:\Users\admin\source\repos\TheoremTest\TheoremTest\obj\Debug\TheoremTest.pdb
